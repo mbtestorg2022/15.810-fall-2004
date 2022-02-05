@@ -22,15 +22,84 @@ Each group will be required to hand in three case write-ups. You may choose from
 
 Use the following sets of questions to guide your report:
 
-| CASE TOPICS | QUESTIONS |
-| --- | --- |
-| Barco Projection Systems | ([PDF]({{< baseurl >}}/resources/barco)) |
-| Boston Whaler | ([PDF]({{< baseurl >}}/resources/boston_whaler)) |
-| Michael Bregman | ([PDF]({{< baseurl >}}/resources/michael_bregman)) |
-| Optical Distortion | ([PDF]({{< baseurl >}}/resources/optical_distortn)) |
-| Tweeter | ([PDF]({{< baseurl >}}/resources/tweeter)) |
-| Vestron | ([PDF]({{< baseurl >}}/resources/vestron)) |
-| Vicks Healthcare | ([PDF]({{< baseurl >}}/resources/vicks_answers)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CASE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Barco Projection Systems
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/barco))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Boston Whaler
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/boston_whaler))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Michael Bregman
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/michael_bregman))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Optical Distortion
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/optical_distortn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tweeter
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/tweeter))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vestron
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/vestron))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vicks Healthcare
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/vicks_answers))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Individual Case Reports
 -----------------------
