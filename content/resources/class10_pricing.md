@@ -5,6 +5,7 @@ description: 'This resource explains the following topics: Costs, Demand: Lack o
   All of This Out.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-810-marketing-management-fall-2004/3f99ca1cd4017968b3eca64512d7653f_class10_pricing.pdf
 file_type: application/pdf
+parent_uid: a12209c7-40e6-ae18-5fad-4daa3dd035ce
 resourcetype: Document
 title: class10_pricing.pdf
 uid: 3f99ca1c-d401-7968-b3ec-a64512d7653f

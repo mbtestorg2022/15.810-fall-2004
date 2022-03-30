@@ -5,6 +5,7 @@ description: 'This resource describes: Refresher, and Solutions. Under Refresher
   it describes channel design, and channel management.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-810-marketing-management-fall-2004/5558a794e2bffcc3c8a5df088a8de0ae_14dsnmgmtmktgch2.pdf
 file_type: application/pdf
+parent_uid: a12209c7-40e6-ae18-5fad-4daa3dd035ce
 resourcetype: Document
 title: 14dsnmgmtmktgch2.pdf
 uid: 5558a794-e2bf-fcc3-c8a5-df088a8de0ae
